@@ -1,5 +1,6 @@
 /*
- *WiFiFinder ESP8266 
+ *MASLOW: an Open WiFi Detector with ESP8266 
+ *based in Adafruit https://learn.adafruit.com/wifi-hotspot-finder-adafruit-pro-trinket-cc3000
  * by Andres Sabas
  * The Inventor's House Hackerspace
  * 19 sept 2015
